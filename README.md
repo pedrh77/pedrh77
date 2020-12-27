@@ -4,9 +4,9 @@
 
 I'm Pedro Santos and I'm learning the art of programming.
 
-⚡ I’m currently learning: Javascript and Mysql.
+⚡ I’m currently learning: Javascript and Sql.
 
-🔭 I intend to learn: C# and React Native.
+🔭 I intend to learn: Java and React Native.
 
 ---
 **Coming soon with Repositories and Projects...!!**
