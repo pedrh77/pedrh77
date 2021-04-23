@@ -9,6 +9,7 @@ I'm Pedro Santos and I'm learning the art of programming.
 🔭 I intend to learn: Javascript.
 
 ---
-[![Foo](https://user-images.githubusercontent.com/66256107/111877896-3ef71280-8984-11eb-82f1-0f1c4777e3a0.png)](https://api.whatsapp.com/send?phone=5516988347470)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-Pedro%20Santos-green)](https://api.whatsapp.com/send?phone=5516988347470)
+
 
 **Coming soon with Repositories and Projects...!!**
