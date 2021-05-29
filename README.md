@@ -5,6 +5,7 @@
 
 Me chamo Pedro Santos e estou aprendendo a arte da programação.
 <Hr>
+
 ⚡ Atualmente vendo: C# and Sql Server.
 
 🔭 Interessado em XAML e MAUI.
