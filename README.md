@@ -1,5 +1,7 @@
 ### Olá, sejam Bem-Vindos 👋
 
+<img src="https://user-images.githubusercontent.com/66256107/103182834-3fa07100-488d-11eb-9d6f-036149d9c8f3.png" align="right" width="230px" height="230px" >
+
 ## Me chamo Pedro Santos e estou aprendendo a arte da programação.
 <hr>
 ⚡ Estudando: C# 
@@ -9,7 +11,6 @@
 ---
 
 <div>
-  <img src="https://user-images.githubusercontent.com/66256107/103182834-3fa07100-488d-11eb-9d6f-036149d9c8f3.png" align="right" width="230px" height="230px" >
   <a href="https://github.com/pedrh77">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrh77&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrh77&layout=compact&langs_count=16&theme=dark"/>
