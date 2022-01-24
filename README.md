@@ -6,7 +6,7 @@
 
 ⚡ Estudando: C# e Javascript
 
-🔭 Interessado em: Asp.Net Core e Xamarin.Forms
+🔭 Interessado em: Asp.Net Core
 
 ---
 
