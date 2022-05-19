@@ -1,12 +1,12 @@
-### Olá, sejam Bem-Vindos(as) 👋
+### Hi, Welcome in my Profile! 🖐🏽
 
 <img src="https://user-images.githubusercontent.com/66256107/103182834-3fa07100-488d-11eb-9d6f-036149d9c8f3.png" align="right" height="150em" >
 
-## Me chamo Pedro Santos e estou aprendendo a arte da programação.
+## My name is Pedro Santos, I'm learning the art of programming...
 
-⚡ Estudando: C# e Javascript
+🥇 Studing: C#
 
-🔭 Interessado em: Asp.Net Core
+🥈 Interest in: Xamarin-Forms and Docker
 
 ---
 
@@ -22,4 +22,4 @@
 
 </div>
 
-### **Em breve com Repositórios e Projetos!!...**
+### **Coming soon with Repositories and Projects!!...**
