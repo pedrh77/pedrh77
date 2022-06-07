@@ -1,14 +1,18 @@
-### Hi, Welcome in my Profile! 🖐🏽
+## Hi, Welcome in my Profile! 🖐🏽
 
 <img src="https://user-images.githubusercontent.com/66256107/103182834-3fa07100-488d-11eb-9d6f-036149d9c8f3.png" align="right" height="150em" >
 
-## My name is Pedro Santos, I'm learning the art of programming...
+### My name is Pedro Santos, I'm learning the art of programming...
 
-🥇 Studing: C#
 
-🥈 Interest in: Xamarin-Forms and Docker
+<div style="display: inline_block">
+ <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Xamarin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg"> 
+  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 
----
+
+</div>
+<br>
 
 <div>
   <a href="https://github.com/pedrh77">
