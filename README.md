@@ -1,6 +1,6 @@
 ## Hi, Welcome in my Profile! 🖐🏽
 
-<img src="https://user-images.githubusercontent.com/66256107/103182834-3fa07100-488d-11eb-9d6f-036149d9c8f3.png" align="right" height="150em" >
+<img src="https://user-images.githubusercontent.com/66256107/103182834-3fa07100-488d-11eb-9d6f-036149d9c8f3.png" align="right" height="190em" >
 
 ### My name is Pedro Santos, I'm learning the art of programming...
 
