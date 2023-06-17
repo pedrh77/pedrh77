@@ -6,17 +6,17 @@
 
 
 <div style="display: inline_block">
- <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Xamarin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg"> 
+ <img align="center" alt="Csharp" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
+ <img align="center" alt="Javascript" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"> 
+  <img align="center" alt="PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> 
+  <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
 
 </div>
 <br>
 <div>
 <a href="https://github.com/pedrh77">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedrh77&theme=dracula&show_icons=true" /> <br>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedrh77&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedrh77&layout=compact&langs_count=5&theme=dracula"/>
 </a>
 </div>
 <br>
