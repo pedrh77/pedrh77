@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/66256107/103182834-3fa07100-488d-11eb-9d6f-036149d9c8f3.png" align="right" height="190em" >
 
-### My name is Pedro Santos, I'm learning the art of programming...
+### My name is Pedro Santos, I'm a software developer at Usabit, today I work with C#, Node.Js and still learning Java and C++.   
 
 
 <div style="display: inline_block">
@@ -26,4 +26,4 @@
 
 </div>
 
-### **Coming soon with Repositories and Projects!!...**
+### **⚠ Biulding knowledge ⚠**
